@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi! I'm Andreas, 
+I'm an undergraduate Computer Science student at the University of Vienna. While doing a semester abroad at the Australian National University (ANU), I discovered a passion for low-level systems and hardware-centric design.
 
-<!--
-**andi999999999/andi999999999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are two of my recent projects:
 
-Here are some ideas to get you started:
+* **[Dual-FPGA Keyboard Input System](https://github.com/andi999999999/Dual-FPGA-Keyboard-Input-System)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*A from-scratch Verilog system featuring a custom synchronous protocol and PS/2 decoder.*
+
+* **[Real-Time STM32 Sensor Analysis](https://github.com/andi999999999/STM32-Sensor-Data-Acquisition-System)**
+
+*An interrupt-driven C application featuring a custom peak-detection algorithm and system optimization.*
+
+📬 **How to reach me:** 
+* [LinkedIn](www.linkedin.com/in/andreas-bräuer-36a81b1a2)
