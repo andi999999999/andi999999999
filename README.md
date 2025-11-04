@@ -11,5 +11,4 @@ Here are two of my recent projects:
 
 *An interrupt-driven C application featuring a custom peak-detection algorithm and system optimization.*
 
-📬 **How to reach me:** 
-* [LinkedIn](www.linkedin.com/in/andreas-bräuer-36a81b1a2)
+📬 **How to reach me:** [LinkedIn](www.linkedin.com/in/andreas-bräuer-36a81b1a2)
