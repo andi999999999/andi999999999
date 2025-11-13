@@ -5,7 +5,7 @@ Here are two of my recent projects:
 
 * **[Dual-FPGA Keyboard Input System](https://github.com/andi999999999/Dual-FPGA-Keyboard-Input-System)**
 
-*A from-scratch Verilog system featuring a custom synchronous protocol and PS/2 decoder.*
+*A from-scratch Verilog system featuring a custom synchronous protocol and PS/2 decoder. Selected as exemplar project by professor.*
 
 * **[Real-Time STM32 Sensor Analysis](https://github.com/andi999999999/STM32-Sensor-Data-Acquisition-System)**
 
